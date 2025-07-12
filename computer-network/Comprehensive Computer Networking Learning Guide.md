@@ -76,6 +76,8 @@ To understand how networks function, it's essential to know the basic components
 
 #### 1.3.1. Network Hardware
 
+![Home/Small Office Network Hardware Diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/CZmdmFi8Dw5cT16zT6Gusf-images_1752307645659_na1fn_L2hvbWUvdWJ1bnR1L2hvbWVfbmV0d29ya19oYXJkd2FyZQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L0NabWRtRmk4RHc1Y1QxNnpUNkd1c2YtaW1hZ2VzXzE3NTIzMDc2NDU2NTlfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyaHZiV1ZmYm1WMGQyOXlhMTlvWVhKa2QyRnlaUS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=QV~UF1d4Gp0Wm1jBzTHX3kRdcaIgIveZYWAuFbpCmRiJg4udtTawfSdw3ZeAj3ju4r0hlboJRC41pxXTGrJKVEgwBEl5pWpm5kumTqt6iLm3muqfqXBxW-Mqtc71lnzfwhIpcN5rQjOs27t35bcVIg~Q~WBlVzfmKtT9CdMpd1uL6r0FYKYhbJMD16738tC3uE-g3XTWaYcPmwwIihSrYONx4JOb2XguIMnTpr66wp3BCwwDa0mZ2afwqNbQkUMzNobhW7OVVtVJTRybnca8-pwjHBm~EW4sIYjv5RbF3N2xD2~h0lsh~hRmpVijhBOFh6osc6ar5FQIcKTbtEb~ww__)
+
 These are the physical devices that enable network communication:
 
 *   **Routers:**
@@ -164,6 +166,8 @@ These are fundamental ideas that underpin how networks operate:
 
 
 ### 1.4. How Networks Work (Basic)
+
+![Basic packet flow diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/CZmdmFi8Dw5cT16zT6Gusf-images_1752307645705_na1fn_L2hvbWUvdWJ1bnR1L3BhY2tldF9mbG93.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L0NabWRtRmk4RHc1Y1QxNnpUNkd1c2YtaW1hZ2VzXzE3NTIzMDc2NDU3MDVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzQmhZMnRsZEY5bWJHOTMucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=HXxbsQT7DyaCURZ1X3G2y5b6npouNAQQB5mXHMr93dOcWWBIjSVQJUdPvNz4H1Feu5npTc~w4bmpyhFpR1qM6-HTaFDP0cNyErYILbvjYVA9z5b6KUH9VqwbtkXQuoorA0qxyBQA-CivLtySxlHMnu1t-AeqPBuZqDkE4PsPD34mjRa2ERqx6CN-fhd~tQKCEJHcgkbsBaZ88FqFO2FUCvcDdv7pJv7He-txYEatFoJv6T4Q-SpbkbrYw73tPUe2XeYD7b~saN0V8QG1ESVKeGbSVKI4L5frH01h9TCuzp7VP1MtrrLqJFUzREBOzghfYU9AJxUVo628NPuzB3SLcg__)
 
 At a fundamental level, networks work by sending data in small chunks called **packets**. When you send an email, browse a website, or stream a video, your computer breaks the information into these packets. Each packet contains a piece of the data, along with header information that includes the source and destination IP addresses, and other control information.
 
@@ -377,6 +381,7 @@ As introduced, DNS translates human-readable domain names into machine-readable 
 *   **Hierarchy of DNS:** DNS is organized in a hierarchical tree structure, starting from the **Root DNS Servers** at the top. Below the root are **Top-Level Domain (TLD) servers** (e.g., .com, .org, .net, .edu). Below TLDs are **Authoritative DNS Servers**, which hold the actual DNS records for specific domains (e.g., google.com).
 
 *   **DNS Resolution Process:** When you type a domain name into your browser:
+    ![DNS resolution process diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/CZmdmFi8Dw5cT16zT6Gusf-images_1752307645708_na1fn_L2hvbWUvdWJ1bnR1L2Ruc19yZXNvbHV0aW9uX3Byb2Nlc3M.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L0NabWRtRmk4RHc1Y1QxNnpUNkd1c2YtaW1hZ2VzXzE3NTIzMDc2NDU3MDhfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyUnVjMTl5WlhOdmJIVjBhVzl1WDNCeWIyTmxjM00ucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=RoIH42TohTKpfdnaMUoBHEjaekyoD5lc20~cImdThvqg9~vpt8LxKeZ~LVz1MIdF0STonXaFSkOr28BE6W831u8BjLlMLblpgs--5ItsZZ0QvpIrMamps5ys37BbwzB0IaEWsfOwAQP9cLs4s7AT1uv~fWLJ~Ny4787KWkzbecbGX0hUUTahV52alYQOACZ2O8x9I5Xs6Bv4sub0sLIs4NHyY4TCPt5q~YRzyqCdLHw4I9LljP7PqGNWWTS1McHLnALBZIut12S96NOaudb4u776MKTnqjo85UZ6WM-TOd1gs~VcCXVZHmb-1d3DWmQgxOvsKY~0gJLJAKlZ~zfvLw__)
     1.  Your computer checks its local DNS cache.
     2.  If not found, it queries a **Recursive DNS Resolver** (often provided by your ISP).
     3.  The Recursive Resolver queries a Root DNS Server.
@@ -415,6 +420,7 @@ As introduced, DNS translates human-readable domain names into machine-readable 
 DHCP automates the configuration of IP addresses and other network parameters for devices on a network. This is crucial for large networks where manual configuration would be impractical.
 
 *   **DHCP Process (DORA - Discover, Offer, Request, Acknowledge):**
+    ![DHCP DORA Flow Chart](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/CZmdmFi8Dw5cT16zT6Gusf-images_1752307645709_na1fn_L2hvbWUvdWJ1bnR1L2RoY3BfZG9yYV9wcm9jZXNz.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L0NabWRtRmk4RHc1Y1QxNnpUNkd1c2YtaW1hZ2VzXzE3NTIzMDc2NDU3MDlfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyUm9ZM0JmWkc5eVlWOXdjbTlqWlhOei5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Y-ZNUbmZ832rpfdgUlPySqqERlAiqzz0XEbi0gSKskOdW34pqXOVY4~ujXj0Tmr0NkI-in2r3Rstwcmk0LRGLVokriml~mkhvRB8wc7BslrDTwjGsSF0WttWnbthfOXQBzwOP3UD1cQiaGIqXHk1PeIvulvEYcP0yJatIYqUGGMwpqgzKOFS2UH0CHELZ9RxkGXI6sJnMP0qmTdzGzZJAggz0vfHTv6FJMzf0Ta9-0AYnQ0AGDkndaTwhZAobcPtTDxa6T7YdwzR6SboMPaq5TrE0gPTm8N68xfNPNqcN2jG3uAUSMdFzZCCjnov2WXX-KM3r4mOrg6jOVMmjDZkXA__)
     1.  **Discover:** A client broadcasts a DHCP Discover message to find available DHCP servers.
     2.  **Offer:** DHCP servers respond with a DHCP Offer message, proposing an IP address and other configuration details.
     3.  **Request:** The client selects an offer and sends a DHCP Request message to the chosen server, requesting the offered IP address.
