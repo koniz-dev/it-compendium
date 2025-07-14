@@ -84,9 +84,13 @@ These are the physical devices that enable network communication:
     *   A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent over the internet, such as a web page or email, is sent in packets. A router is connected to at least two networks, commonly two LANs or WANs, or a LAN and its ISP's network.
     *   Think of a router as a traffic controller at a busy intersection. It directs data (cars) to their correct destinations (other streets or highways) based on their addresses.
 
+        ![Router Concept Diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498058_na1fn_L2hvbWUvdWJ1bnR1L3JvdXRlcl9jb25jZXB0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNThfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzSnZkWFJsY2w5amIyNWpaWEIwLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=XiL~M9ef7FMY3rsHPKZLFAbfSdMHjqrospa9f4PI0vCnvySMYss9Di-Nk6UMhMGjLGpsrtdHAJcOaMPPceFYxcgkAiHBuVd1dD3HMUTt7j2yAwQrJ~PvaViDRKlAqt08p16rqVbhNRYf3TaGucs1FYLLzA6xVEtV-yFjOhlr2u~QE~a0hcZ0hX9bJRc3Rlsodh1raKm3AjyT2Jyl0sjoX-jdDZG4ob-6oG5IZsmaqHoUf781gF1fnxQ8haNOi~YBPTF8H3oNdOHCwIpRocZr21oUYXNz8jfhHmCv-EJu5J42YNak8TY~fT1wJtPVoieBdXdvHS8BwgZbEqv2yZw7Ww__)
+
 *   **Switches:**
     *   A network switch connects devices within a computer network by using packet switching to receive, process, and forward data to the destination device. Unlike hubs, switches are intelligent devices that learn the MAC addresses of connected devices and forward traffic only to the intended recipient, improving network efficiency.
     *   A switch is like a post office that knows the exact mailbox for each house on a street. It delivers mail directly to the correct mailbox, rather than shouting it out to everyone.
+
+        ![Conceptual diagram of the switch](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498041_na1fn_L2hvbWUvdWJ1bnR1L3N3aXRjaF9jb25jZXB0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNDFfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzTjNhWFJqYUY5amIyNWpaWEIwLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=aIktCfBaGtfhfBshStLyF~gcquh7kIbUnNEEWTX22NDcWU6T5kUTNEd1nRRfpLETGVuTohwzc-pqYwjGdmZPjxQSnYUFAOZpyFUuMmCXbNbiluILS12bvmqfStfR77A2OxQxvP1TrS9boY7jnGawl6nO5wQnlCskWCgGH3QlRRCsiz0qwGZ5FX8PCEOoW~K0Ep3oRoR3XzEaaDpG-sk9IHb6~LPUUh3vMEDDTywFKd06pMk9ohJpB~d1tupElqEDA0vbwz~k~DTvJSAKDILIl8uAamRb-drzJlJkG9JHGj6qgxq-Vk~sfToAV6gbwicmmyYfru0J1ZVohxcgszYhtg__)
 
 *   **Hubs:**
     *   A network hub is a basic networking device that connects multiple Ethernet devices together, making them act as a single network segment. Hubs are less common now as they broadcast all incoming data to all connected devices, leading to network inefficiency and security risks.
@@ -96,13 +100,20 @@ These are the physical devices that enable network communication:
     *   A modem (modulator-demodulator) is a device that converts digital signals from a computer into analog signals suitable for transmission over telephone lines, cable lines, or other transmission media, and vice versa. It's the bridge between your local network and your Internet Service Provider (ISP).
     *   A modem is like a translator. It converts the language your computer speaks (digital) into a language the internet infrastructure understands (analog) and translates the internet's response back to your computer.
 
+        ![Modem Concept Diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498058_na1fn_L2hvbWUvdWJ1bnR1L21vZGVtX2NvbmNlcHQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNThfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyMXZaR1Z0WDJOdmJtTmxjSFEucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=jK-u6zXEK7CJy-3gtbDtUfI8KpZ9LibdUkQc3F-p6i-P1UIu4pztlUMhcq5-uHoXKS72xWFB272dKDyVw5u-anmZtLIy0591M8EoSP9f8G6zqmPD1D53tzf9bUF5IuTeSt5UhApzccfajBYK6Iyfij8UpN0uShc7iVaSojJAxSjA~tedxLsmyNjIW17sukLos666QWyZvyRAMgYheo5XfTfgY4vj1IqGTxEt5DrxkjpwSfBN3jt5evPAiG0m7v12R9WkLvY6rQNvp341xwxXiTQP-UkfuwQpY1qZFQ2wVaBiE~1wNNpt31Q9Eri9Oki8zEVf-aDo0nX4jy-jeH~U5A__)
+
 *   **Firewalls:**
     *   A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules. It acts as a barrier between a trusted internal network and untrusted external networks, such as the internet.
     *   A firewall is like a security guard at the entrance of a building. It checks everyone (data packets) trying to enter or leave and only allows those with proper authorization (matching security rules) to pass.
 
+        ![Firewall Concept Diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498058_na1fn_L2hvbWUvdWJ1bnR1L2ZpcmV3YWxsX2NvbmNlcHQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNThfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyWnBjbVYzWVd4c1gyTnZibU5sY0hRLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=BGZ~Ho-4eVS03T7C67qkRCFKL982H29~rgoh4aVpHoLmXMuphP4y81Q9W0Z9DevK9GEcbGyg1ON~sMHnnEAO-d1gvpR5VTahc86C9rzeEtiVvINve8415VLdhQ627mV-W4~LCLHt8HO86zzQhCwxhZKyzY-PoRQyLpTdmnz1tk0t~k2Ke09Ey1Kwtfve0TGlqfi3GpxZBzheYBEPhdMemxEnvKMM~RQE4FSvJUWGGWeJiVGXP74HLTtp1rNY2ywd-x5hbyf1fQhgLwLx5RvBW6y~ibA9ks~Gm-cKS2a1I9~drpZBn3tRZbVYQw2yMJAN-uE0BZKY8lFS~-SJoD3Axw__)
+
 *   **Access Points (APs):**
     *   A wireless access point (WAP) is a networking hardware device that allows a Wi-Fi compliant device to connect to a wired network. APs are commonly used to extend the wireless coverage of a router or to create a wireless network in a location without a router.
     *   An access point is like a Wi-Fi hotspot. It takes the wired internet connection and broadcasts it wirelessly, allowing devices like laptops and smartphones to connect without cables.
+
+        ![Access Point Concept Diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498058_na1fn_L2hvbWUvdWJ1bnR1L2FjY2Vzc19wb2ludF9jb25jZXB0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNThfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyRmpZMlZ6YzE5d2IybHVkRjlqYjI1alpYQjAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=bHaSW-X-HpQzdU6WfIjsaAnuAWvTlkuQeAuJ30RGdl96BLq6qffsXO0ehd8qwwzyquFqRKIgHnhC-7xMJ5ql-WJaeB1tjVRIelOf~JTr9WUPlpSqe~FScgRSwc3RwCOxN~zKt3YkoCBQsP1UuaR-yxiIdG8FN88ZICYevOeiWD9kOMpbbtLaqE7LNJBB8vwKFNoPQE79csX~3KT1rfaY4pFeTxLsvMQ7cbTO3xR3FRBn3Y8NQhpFl1LNLRGsBaraLgTaSHXIdqDGCsAol2h--NjEkRecSow2RX0hpje53AepIBXr~tJq6BI3wEkh7yyQEoRfZAko25bl5RGO77xuHw__)
+
 
 #### 1.3.2. Core Concepts
 
@@ -290,6 +301,8 @@ This model is crucial for understanding how the Internet works and how different
 
 #### 2.1.3. IP Addressing & Subnetting
 
+![IP Subnetting Diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498050_na1fn_L2hvbWUvdWJ1bnR1L2lwX3N1Ym5ldHRpbmc.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTBfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwybHdYM04xWW01bGRIUnBibWMucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Nu9n~TilNpufyPIJEbpdFP8P~OICpdJGBTL7EiKbKmO~5lwgY4vUZcwgKTj3KomaRPYs5DkIVUXB502rFtypifmjEWX~laTtvfDVeyM4Zj39Q2m7vxp2sKMRAxOeAGsODm1BQmKz3W1f2jv66or16CS4U4BF0Id5ABZwjM4EusuMp3TTMsXA7yS~EuPZNI95nLoUtFLS1CVm6jXwn~3NHUzXigORALo1nfWs1d7ux0BMdxiBgE8-ArvYTQje0w2xF~HhdCvOTvAmT3w-WGL5g7XdalcRrqKGK9-ITG7d~pW-9XST4G9PwYka4j8XwLlOLev9aR0lk5PjQhaRDMTjVA__)
+
 **IP Addressing (Intermediate Detail):**
 
 As discussed in the beginner section, an IP address is a unique numerical label assigned to each device on a network. Let's delve deeper into its structure and types.
@@ -343,6 +356,8 @@ Subnetting is the process of dividing a larger IP network into smaller subnetwor
 #### 2.1.4. MAC Addresses
 
 A Media Access Control (MAC) address is a unique identifier assigned to a network interface controller (NIC) for communications at the data link layer of a network segment. It is a hardware address, meaning it is permanently embedded into the network adapter by the manufacturer. MAC addresses are 48-bit (6-byte) numbers, typically displayed in hexadecimal format (e.g., `00:1A:2B:3C:4D:5E` or `00-1A-2B-3C-4D-5E`).
+
+![Compare MAC and IP addresses](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498051_na1fn_L2hvbWUvdWJ1bnR1L21hY192c19pcA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTFfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyMWhZMTkyYzE5cGNBLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=vSAce9q8nuwReqt2fQfGr8jK4fL1M0yhKQKc1rugAj~LLFkg9l2E5ZR0jFbjEk9hC-ZgX2Usd2hrH-1Kh95ZkjNPBzA6Vd3aL2qx--oigJtDrYsw7S1dbk1zATfS-IBGcCru53SnfiRG2cRKv9zzCAAr929jzJUs5jl3Z7o~zGBsRJalowsLw9XoMqPgwSQBU4tDSAQOWnXTY8q6rkdZjQum-5eV1Q~S5RGRRysKzv-VCu2SgiIdVh~NPQJw3zXUumbfZF3i54VrGWxuipAQ~Ku7L41IdG0x29yei7AiqAPIEsJkuD6BGyme7yQoXH2dY1a0EF1Uug8K4rQ4nsKDKg__)
 
 *   **Structure:** The first 24 bits (first three octets) of a MAC address represent the **Organizationally Unique Identifier (OUI)**, which identifies the manufacturer of the NIC. The remaining 24 bits (last three octets) are assigned by the manufacturer to uniquely identify the specific network adapter.
 
@@ -449,6 +464,8 @@ DHCP automates the configuration of IP addresses and other network parameters fo
 
 #### 2.1.6. NAT
 
+![NAT diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498052_na1fn_L2hvbWUvdWJ1bnR1L25hdF9kaWFncmFt.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTJfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyNWhkRjlrYVdGbmNtRnQucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=N0YXAczfJtDbeGZq6dZn1yRzHMp4DU-G12GTfZbwz2YkoMMcH9lDuF1KOh72pKfhUJLvUyGIpWSpzlFQnBnJ~empB5ShKLWUBJS9MNRmGIj1NK5ov0GTdlaugN3fX896rBUvPcALj1BOYijRyEWomETyZsafVRObxngsy6nmkbNvsHL~YEhUa3wtY~6~z8PCxkvnQ37N~0P1DJNjDzNxnT9vhwRlqQjgeJ41KPpO7TBIdXi1seCmB6b5EhpkQ~j1jDSMXctEEkeD2cEF04AZIH4sumnrnADCgn4WfNEWiSiapLX3rM51RwU72Pf9qSln6QEz52pEhhRsYZPNvzWo8g__)
+
 Network Address Translation (NAT) is a method used by routers to translate the private IP addresses of devices on a local network into a single public IP address when they access the internet. This allows multiple devices to share a single public IP address, conserving the limited supply of IPv4 addresses.
 
 *   **How it Works:** When a device on a private network sends a packet to the internet, the router (acting as a NAT device) replaces the private source IP address with its own public IP address. It also assigns a unique port number to the connection. When a response comes back from the internet, the router uses the port number to determine which private device the packet is intended for and translates the public destination IP address back to the private IP address of that device.
@@ -475,9 +492,13 @@ Network Address Translation (NAT) is a method used by routers to translate the p
 
 #### 2.2.1. LAN, WAN, MAN, WLAN
 
+![Geographic coverage of network types](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498053_na1fn_L2hvbWUvdWJ1bnR1L25ldHdvcmtfdHlwZXNfc2NvcGU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTNfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyNWxkSGR2Y210ZmRIbHdaWE5mYzJOdmNHVS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=IWb70bJRKXhb1qv93J592Oq276hvgEKxPjjK7Kigx4H2nsX0DpW9tipeKbb87V82KEWV9W-Y9fuEdlGbhysWoa1jUew8blowH3g8c84Vqxa4YewTiMf0u0pXTmYuksjalfF2C72wpUCLVE1A49REwjpWWlRc2hbKrPtnnzDnyCrDzyuOM-fFxTj9tyFGgUSBenfxudOzlq~kEOhyjF2pbyqqtLmH0sEVuaXMEh1BOPTrxCOue2WH7AoIZAL1Y2IyTr4p-bEhXhyIIND3fIQ~Z8zLs-RtEZMVZ8r8zPbEJC3ae9yyr-Y5jYIfuaQ7V1KQ8Z-yQ5L0ZZWBkFp90cRAHw__)
+
 Let's expand on the network types introduced in the beginner section, providing more technical details and distinctions.
 
 *   **Local Area Network (LAN):**
+    ![Typical LAN diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498053_na1fn_L2hvbWUvdWJ1bnR1L2xhbl9kaWFncmFt.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTNfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyeGhibDlrYVdGbmNtRnQucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=mb7164e9RJROJRKptF-3IPAmFI97PRKAUi9XqMeMj165jaA9zGEMbhr625Z46lKPbdoH6DAnXxIRkYmDtzHCsM0W~ypmuLcs6Rje30LjCjnjixmnq1qAlP~X9jTBXYMkzPN-rf61y66sRBGElBTkJZxByIt0vczBPGppiqArWrz8ZXmNsSr9iAyYJ0eKKY6cVXNlJ1KWZTBn6104w1STpxdS9UCqGF9MUAFdpc6~tEFk6xWl7~4bmCAFWuLyDvAZbEV6ej0BEReJW91GZhedSrsWap5w9e9O-UW8ktR6ppKTswX47qzaNRDIuglauEybt4GHKv7CqVdI7bjAxltYJg__)
+
     *   A LAN connects network devices over a relatively short distance, typically within a single building, a campus, or a small geographical area. LANs are characterized by high data transfer rates and are usually privately owned and managed.
     *   **Characteristics:**
         *   **High Speed:** Data transfer rates typically range from 10 Mbps to 10 Gbps or even higher (e.g., Gigabit Ethernet).
@@ -523,6 +544,8 @@ Let's expand on the network types introduced in the beginner section, providing 
 #### 2.3.1. TCP
 
 Transmission Control Protocol (TCP) is a core protocol of the Internet Protocol Suite. It operates at the Transport Layer (Layer 4) of the OSI model and is responsible for reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network. TCP is a **connection-oriented** protocol, meaning it establishes a connection before data transmission and maintains it until all data is exchanged.
+
+![TCP three-way handshake diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498054_na1fn_L2hvbWUvdWJ1bnR1L3RjcF90aHJlZV93YXlfaGFuZHNoYWtl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTRfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzUmpjRjkwYUhKbFpWOTNZWGxmYUdGdVpITm9ZV3RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=uskVNA5gXpdThFP30Q0BuQqBDcw9dFoKYzLPxIrZ68MSJOVNFvZ~b15kXrQkJGsKifSoZfm6MUWROnJj~PqtwDyVI4wJYEb4ow71djWGpFXc0d~bz99NdSNgHX4jL-3THyN7SBNeN034KEYn0fV3wyKFaJDFY~M-8-DB91WFbYhTU-0FZOqBbtC14j50jVWIwEZZaUWXZEcYpMlXgVjqDwGhHJeF0JEzRqQnL3QQdgqyQgJC707qVmeedOUwQR8pld870hYFvKy73RG7j5tJVnWF5imwDA~iUEpliUdN1s8h7WXDd7aX22bVabtE-JbHC1UH-0hN8nw9qhrjjVwq7g__)
 
 *   **Key Features of TCP:**
     *   **Connection-Oriented:** Establishes a connection using a three-way handshake (SYN, SYN-ACK, ACK) before data transfer begins.
@@ -589,6 +612,8 @@ User Datagram Protocol (UDP) is another core protocol of the Internet Protocol S
 
 
 #### 2.3.3. HTTP/HTTPS
+
+![Difference between HTTP and HTTPS](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498055_na1fn_L2hvbWUvdWJ1bnR1L2h0dHBfaHR0cHNfZGlmZmVyZW5jZQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyaDBkSEJmYUhSMGNITmZaR2xtWm1WeVpXNWpaUS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=f49ESTVW925cjYiBm2cChYgj0KbI59d6zXlXuJyfeiXblGr0nMdiB3O10yV5QtR~8Pw8z5w8ZbV6hW8YxYke33vE~Up7LpOIwOmIZ9mIZGvBH~7VxCL7T~zGAoFYglYwJINchi0F1BDkHeE8lkZSjEsWahDl39vSY3v4hywaZTBkCseZ-gFzdZhc6kl3mf73MyeB~G-quPXLW6n8JhUVupM2imG6QMomCVsz2T1my5ZxVothKyIoxUYyOIuCsU99miutgE8buKuCiLe7guZtl48vSlqKK3pnslmjUJVJcoY6jx7tSEWBih-6IW2WlrgU0Z8DMa6cSCbZBdRt5mwmig__)
 
 Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML. It is the foundation of any data exchange on the Web and it is a client-server protocol, meaning requests are initiated by the recipient, usually the Web browser. A complete document is reconstructed from the different sub-documents fetched, for instance, text, layout description, images, videos, scripts, and more.
 
@@ -805,6 +830,8 @@ To solidify your understanding of the intermediate concepts, here are some pract
 
 While basic routing involves forwarding packets based on a routing table, advanced routing involves more complex protocols and concepts that enable efficient and resilient communication in large-scale networks.
 
+![Routing Protocol Diagram (IGP vs EGP)](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498055_na1fn_L2hvbWUvdWJ1bnR1L3JvdXRpbmdfcHJvdG9jb2xz.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzSnZkWFJwYm1kZmNISnZkRzlqYjJ4ei5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=o9rNR5oze5WigSfSABSkDRyO4fLD1bohYBfzTlfMILY1ReOhW0Dog6pc9hrAed1oKuFzE5qDlPaxhR331bIiBoCZAD-c7-h1hPxCoh6WqYYwRaag8KRyvarzOyl7vL6Gyasfqol2yXMsQeL17QmAjZwDpXmHgpcSfpHAUoBKGiOtHCiL4wWVTjE9euhYDf1AC97XtC~KADCtPT3aYrv6ff7mRlrmnARvHjZli6takqJXtrOjXCP7MTwx42xtRWL~VwPdwfaKZm-fgiupILOXNZX4nDOLGk-RLrX3pAaQ3B5i0PeHGGdLuiVtdt-ByP~DUyDRrf~7gwg-drDIQVxa9w__)
+
 *   **Routing Protocols:** These are protocols used by routers to dynamically learn about available routes and make intelligent decisions about where to forward packets. They are categorized into two main types:
     *   **Interior Gateway Protocols (IGP):** Used for routing within a single autonomous system (AS), which is a network controlled by a single organization.
         *   **Distance-Vector Protocols:** Routers share their entire routing table with their neighbors. Examples include:
@@ -829,6 +856,8 @@ Advanced switching concepts go beyond basic Layer 2 forwarding and involve more 
 
 *   **Layer 3 Switching:** A Layer 3 switch is a hybrid device that combines the functionality of a switch and a router. It can perform both Layer 2 switching (based on MAC addresses) and Layer 3 routing (based on IP addresses) at high speeds. This is particularly useful for inter-VLAN routing.
 
+    ![VLAN diagram and routing between VLANs](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498056_na1fn_L2hvbWUvdWJ1bnR1L3ZsYW5faW50ZXJfdmxhbl9yb3V0aW5n.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzWnNZVzVmYVc1MFpYSmZkbXhoYmw5eWIzVjBhVzVuLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Wt5WZETUDus1Vf4JLCeuooIHe0N8SauTQxfhPWuxuXGv0WvoS7A1DhCl78AEf6b7WLambA9dEJfmeCi-vWjbevTqg0iJL7j6IWRUqE8QAYCt64r9PipTnZqm3mFtfXvkOzPCmprVckV1Lr0~uJJ05u8EqzC46SXJrlbvll0YNKJ5u-P-UvLam3xkLLAmoE61qNkSvAp~c3K~7mm4icb0cW8Ee~Gsm7L4J94VZzsTmX0yR5ChwCWfyPeq8AmN9Xl0qTE8LfKundKyv~HsY1x5nK66vnF20P4OcajR81P4EdK6Ql8rHMFBUKKfYWaEkTxdMw45zj0HEziRqYt-a9w16g__)
+
 *   **VLANs (Virtual LANs):** A VLAN is a logical grouping of devices on one or more LANs that are configured to communicate as if they were attached to the same wire, when in fact they are located on a number of different LAN segments. VLANs allow network administrators to segment networks for security, traffic management, and flexibility, regardless of the physical location of the devices.
     *   **VLAN Tagging (IEEE 802.1Q):** A method of identifying which VLAN a frame belongs to by adding a VLAN tag to the Ethernet frame header. This allows switches to forward frames to the correct VLANs.
 
@@ -844,6 +873,8 @@ Advanced switching concepts go beyond basic Layer 2 forwarding and involve more 
 #### 3.1.2. VPN
 
 A Virtual Private Network (VPN) extends a private network across a public network, like the Internet. It enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. This provides enhanced security and privacy, as the VPN creates a secure, encrypted tunnel for data transmission.
+
+![VPN Types Diagram](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498056_na1fn_L2hvbWUvdWJ1bnR1L3Zwbl90eXBlcw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzWndibDkwZVhCbGN3LnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=bxBWEmeoOblBio-uvNoyPekWGjr6pOkUidwUp5AFlZ6VCRfgMUgxyrvK2JhGAi7SN556c2UGE1N02QcN0QB061AxkO9N7ysmNWGM5KgyF3tz4QBJYqvEyQYSVVakUlYKr~IESJ8~QviPn5FnQVS7cTVCwRWB6IsNys0JDc6NNANxjCXtVoIZ-GvVz6DU96e~68wzjjtwuP~bsLnW02KKSyv70F8-OpzvkPCJKowu63mzRBo8Jjbqje~sdeMSQ0K-E4pSWiEmrB8DTvvUa07FghAczno7vl-U8vexxjiMXlfvFKVe87qPZlyBQEben~H5yfrv3agErFczoW2vvSzgIQ__)
 
 *   **How VPNs Work:**
     1.  **Encryption:** Data sent over a VPN is encrypted, making it unreadable to anyone who intercepts it.
@@ -870,6 +901,8 @@ tunnel between the user's device and the VPN server. All traffic passes through 
 
 
 #### 3.1.3. SDN
+
+![SDN Architecture](https://private-us-east-1.manuscdn.com/sessionFile/IyDvER8XaLM3bALk1O30uz/sandbox/WPL8CGFWZnh8N4lRFu2bFi-images_1752456498057_na1fn_L2hvbWUvdWJ1bnR1L3Nkbl9hcmNoaXRlY3R1cmU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSXlEdkVSOFhhTE0zYkFMazFPMzB1ei9zYW5kYm94L1dQTDhDR0ZXWm5oOE40bFJGdTJiRmktaW1hZ2VzXzE3NTI0NTY0OTgwNTdfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzTmtibDloY21Ob2FYUmxZM1IxY21VLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=UUU-NOWrAmLye~hikTiJd1rtccWhbCWepWWtvNud9Whb765OPjC5J1sep5VMu2Wmqw8omtSV1Jkbym5dK26kxwXxfkjqZbOTfbzwgxH7tM7xgJSEiT0ze6HzBAgMSYLfHushAifSuWIIR0pzAi917iZjEXLzkokLNxUo5Q0xwR8sthNfUO3qTjM8SlnNW6N5DQAD7uO5KRmSNZq6JiftvJuA6llB~V3xeWuRuHjIDv2iPFSLnGcKTXaDoqEeicUHbgKP9dzGcOlu-s05B1hqvkldEzqsqevSF27JVFnwLqDKf2VyD1T9Am2vt-SuFw1IF3sUIW6O7izEmyVTmAGxKQ__)
 
 Software-Defined Networking (SDN) is an architectural approach to networking that separates the network control plane from the data forwarding plane. This separation allows network administrators to manage and control network devices and traffic flow programmatically, using software applications, rather than manually configuring individual hardware devices.
 
