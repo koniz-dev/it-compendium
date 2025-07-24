@@ -27,7 +27,7 @@ Cloud computing is typically categorized into three main service models, each re
 
 *   **Software as a Service (SaaS)**: SaaS is a method for delivering software applications over the Internet, on demand and typically on a subscription basis. The cloud provider hosts and manages the software application and underlying infrastructure, and handles any maintenance, like software upgrades and security patching. Users connect to the application over the Internet, usually with a web browser. It's like taking a taxi: you use the service, but you don't own the car or worry about its maintenance. Examples include Gmail, Salesforce, and Dropbox.
 
-![Shared Responsibilities in Cloud Service Models](/home/ubuntu/iaas_paas_saas_diagram.png)
+![Shared Responsibilities in Cloud Service Models](https://private-us-east-1.manuscdn.com/sessionFile/ywaduezki6QvelaNu8CiYQ/sandbox/q4ouLcTwaXo9pSv25242KC-images_1753329694495_na1fn_L2hvbWUvdWJ1bnR1L3VwZGF0ZWRfaW1hZ2VzL2lhYXNfcGFhc19zYWFzX2RpYWdyYW0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveXdhZHVlemtpNlF2ZWxhTnU4Q2lZUS9zYW5kYm94L3E0b3VMY1R3YVhvOXBTdjI1MjQyS0MtaW1hZ2VzXzE3NTMzMjk2OTQ0OTVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndaR0YwWldSZmFXMWhaMlZ6TDJsaFlYTmZjR0ZoYzE5ellXRnpYMlJwWVdkeVlXMC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=NwgA2uQ2w7JVFV6GUW3per9Ewzb6CvV6pEV7VYmU~ncXmfc4BhAsbmxHEPMNg1xtBoJdzj7ko~hfCoBSmDh2Eh~ugVsyRBbJCVzOzBTUWFqxAfuChiwK364LHYS811G3uyOHmw-ZYm1UlybyTsumWh9M658uCpIOwHChVr6rIMRRp5DovXMemEE-5rlMwGoXTvy2zt8LvW8o-rIO6QcmMinzmwnGsV3xeglY8IEYnYzhtInOzZlMW6vTh9JiDOtlud2RUAJ3xm64OB0PIiuvAgbm12qz7T5o-byRaLx2MnYsOna9df7tYOZ9TwW-n7a6QlxJWNX77tewQR33~pGswg__)
 
 #### Core Concepts: Cloud Deployment Models
 
@@ -41,7 +41,7 @@ Cloud deployment models define how cloud resources are organized and where they 
 
 *   **Community Cloud**: A community cloud is a collaborative effort in which infrastructure is shared between several organizations from a specific community with common concerns (security, compliance, jurisdiction, etc.), whether managed internally or by a third-party. This model is particularly useful for joint ventures, research projects, or organizations with shared industry regulations. Imagine several specialized libraries collaborating to share resources for a specific field of study.
 
-![Cloud Deployment Models](/home/ubuntu/cloud_deployment_models.png)
+![Cloud Deployment Models](https://private-us-east-1.manuscdn.com/sessionFile/ywaduezki6QvelaNu8CiYQ/sandbox/q4ouLcTwaXo9pSv25242KC-images_1753329694496_na1fn_L2hvbWUvdWJ1bnR1L3VwZGF0ZWRfaW1hZ2VzL2Nsb3VkX2RlcGxveW1lbnRfbW9kZWxz.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveXdhZHVlemtpNlF2ZWxhTnU4Q2lZUS9zYW5kYm94L3E0b3VMY1R3YVhvOXBTdjI1MjQyS0MtaW1hZ2VzXzE3NTMzMjk2OTQ0OTZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndaR0YwWldSZmFXMWhaMlZ6TDJOc2IzVmtYMlJsY0d4dmVXMWxiblJmYlc5a1pXeHouanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=q-9VacwHZtTNTI9pTAG58m01dv7xK~d0mg6~9bF2VJr9uyak84yLeY9UXpD6ycucEWlDb5v39n-pe0NEbaPG5rQTur9QtbWKTZfBFAt6BBHSfnk9oAPOy7LpETfnajgKs3sKAbHd8LYMpFPwWqjOG~VXeePFHwdXnMgK8zJZ9RE74wMA~0uDEoi~mt-1K8tZxAzDMOxnE9LByhNc4RvaFjdolbASf4-fnnF3nlGqUt5zw2U1c4~15lqMIDnkFHb605Bb1L~Af6qqGQRy9Wrxde1z2TkL99CmKGVgqE~sH0UJjLrMNKvEnU1qB8CvEzBXmdE7hG5AO8IBmmR8ou4WiQ__)
 
 
 
@@ -250,7 +250,7 @@ In cloud computing, firewalls function similarly to traditional network firewall
 
 **Direct Connect (AWS) / ExpressRoute (Azure) / Cloud Interconnect (GCP)** are dedicated network connections that establish a private, high-bandwidth, low-latency connection between your on-premises data center and the cloud provider’s network. Unlike VPNs, these connections do not use the public internet, offering more consistent network performance and enhanced security. This is like having a private, high-speed highway directly to the cloud, bypassing regular internet traffic.
 
-![Cloud Architecture Diagram](/home/ubuntu/cloud_architecture_diagram.png)
+![Cloud Architecture Diagram](https://private-us-east-1.manuscdn.com/sessionFile/ywaduezki6QvelaNu8CiYQ/sandbox/q4ouLcTwaXo9pSv25242KC-images_1753329694498_na1fn_L2hvbWUvdWJ1bnR1L3VwZGF0ZWRfaW1hZ2VzL2Nsb3VkX2FyY2hpdGVjdHVyZV9kaWFncmFt.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveXdhZHVlemtpNlF2ZWxhTnU4Q2lZUS9zYW5kYm94L3E0b3VMY1R3YVhvOXBTdjI1MjQyS0MtaW1hZ2VzXzE3NTMzMjk2OTQ0OThfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndaR0YwWldSZmFXMWhaMlZ6TDJOc2IzVmtYMkZ5WTJocGRHVmpkSFZ5WlY5a2FXRm5jbUZ0LnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=e-4vwoZOw4YA6CG3X3w7OkrsVijMx-7ggqP22KcTq2oONgrQLs~1SGIiu~LlLnPu8rt42NkdmXqesNFGGZKN9HjnDXJPoIbgrlhZ4Ua-A390SiyxXK6n5cdvFf9olLtUHgVCH8ctFMtHLhv~Daujxv8zkFXetU-yMzE8ofrvDg1RkFfrcrnyBnqMycWgk8UQHTpgnF1WRvDyOHRnjsr6UkpRRIKlZUE6FWR5yG6bRcUv3Pewb~tyHOXbajZ9tBvthy4ypHL2UDmvNLu9dgmAQwN8RnV9cincfyutrRxm-NgGj5oF49-Q7mBM-l9ETJ98SQ6lRl6GDMZP8M4YlVVS6w__)
 
 
 
@@ -267,7 +267,7 @@ The **Shared Responsibility Model** defines what the cloud provider is responsib
 
 *   **Customer Responsibilities (Security *in* the Cloud)**: This varies depending on the cloud service model (IaaS, PaaS, SaaS). Generally, it includes managing guest operating systems (including updates and security patches), application software, and the configuration of cloud provider-managed security controls (like firewalls, security groups, and network access control lists). Most importantly, customers are always responsible for their data, including its classification, encryption, and access control.
 
-![Shared Responsibility Model](/home/ubuntu/shared_responsibility_model.png)
+![Shared Responsibility Model](https://private-us-east-1.manuscdn.com/sessionFile/ywaduezki6QvelaNu8CiYQ/sandbox/q4ouLcTwaXo9pSv25242KC-images_1753329694498_na1fn_L2hvbWUvdWJ1bnR1L3VwZGF0ZWRfaW1hZ2VzL3NoYXJlZF9yZXNwb25zaWJpbGl0eV9tb2RlbA.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveXdhZHVlemtpNlF2ZWxhTnU4Q2lZUS9zYW5kYm94L3E0b3VMY1R3YVhvOXBTdjI1MjQyS0MtaW1hZ2VzXzE3NTMzMjk2OTQ0OThfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndaR0YwWldSZmFXMWhaMlZ6TDNOb1lYSmxaRjl5WlhOd2IyNXphV0pwYkdsMGVWOXRiMlJsYkEuanBlZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=RKl97E1SrPilN2IemtVpmY1EEMWRIFagwDEi~CA75QrU8a1STYa19TX8tsJq~xYbtDOLY81BavszCgsEGEMHXoNrDhR4XGTFJ0I4234tI5oV3NilvcAYQ7Q0pX-7KuEczFrwXXxOgSuXQlET2p90bIrFNnY995Db9IS-4l4jft~Z1kpuuEWQZafVcyVokVBnMLwDo6rVslSomPdBU346haYHdRU5T2qSCUOGt8ZLEOeB-hgVPOrd2GKsEKJja8bP214jFVcJr6R04oe2kMSS5ICFA8RYdy9vkMXwPpxWVF2IAdFUu0EdGFeYDWCQG8~vAxknVaugOqWhbZjLGkDjzw__)
 
 #### Identity and Access Management (IAM)
 
@@ -330,7 +330,7 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 
 *   **AWS CodePipeline**: A fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. It integrates with other AWS services like CodeBuild, CodeDeploy, and Lambda.
 
-![CI/CD Pipeline Diagram](/home/ubuntu/cicd_pipeline_diagram.png)
+![CI/CD Pipeline Diagram](https://private-us-east-1.manuscdn.com/sessionFile/ywaduezki6QvelaNu8CiYQ/sandbox/q4ouLcTwaXo9pSv25242KC-images_1753329694499_na1fn_L2hvbWUvdWJ1bnR1L3VwZGF0ZWRfaW1hZ2VzL2NpY2RfcGlwZWxpbmVfZGlhZ3JhbQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveXdhZHVlemtpNlF2ZWxhTnU4Q2lZUS9zYW5kYm94L3E0b3VMY1R3YVhvOXBTdjI1MjQyS0MtaW1hZ2VzXzE3NTMzMjk2OTQ0OTlfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndaR0YwWldSZmFXMWhaMlZ6TDJOcFkyUmZjR2x3Wld4cGJtVmZaR2xoWjNKaGJRLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=FkNJ-FeHfgs3dNylOE1GUoZkojNqhUPu0zAvwl7evUrkR~QZPv-VbjzF1~pc7CAP4FtQHpi5NPlXZGrFV92~Vsn1krdq3B-iM7Si~cD7hP7LkswKFFBxgfr1NZMsRjrzFFC2e4VWmLX77YeKcNlUYES88BI7kaMK08kcZYwITpkXlWArm4BcFvBwEtkJKwzUfgiQEbNVW-bzOY8QAlc56gy21~9TTJtISnnL~d5Ep5sqpq6Y59iXSZ0pkuNleBKK3FKAyurM~dIDHbu8s91SQa7XPolco7EJRo1yvw3pPvJlLt78vrw9pQYstyW4XnCU1ef84AY4FYpLUIBgONZUOQ__)
 
 #### Observability (Monitoring, Logging, Tracing)
 
