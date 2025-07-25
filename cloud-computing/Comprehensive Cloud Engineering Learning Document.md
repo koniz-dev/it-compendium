@@ -2,8 +2,6 @@
 
 ## A Comprehensive Technical Learning Document for Aspiring Cloud Engineers
 
-**Author**: Manus AI
-
 ## Introduction
 
 Cloud computing has revolutionized the way businesses operate, providing on-demand access to a vast pool of computing resources over the internet. This document serves as a comprehensive guide for individuals aspiring to become professional Cloud Engineers, covering fundamental concepts to advanced architectural patterns and practical implementations. We will explore the intricacies of cloud computing through the lens of the 5W1H (What, Why, When, Where, Who, How) framework, structured across beginner, intermediate, and advanced levels of difficulty.
